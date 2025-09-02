@@ -4,4 +4,4 @@ This project, created for the IMA 2025 Case Competition, presents a data-driven 
 ## Repository Contents
 All project files (presentations, data, code, and documentation) will be uploaded to this repository soon.  
 
-📄 **Presentation:** [Team Presentation (PDF)](docs/presentation/Team_Presentation.pdf)  
+📄 **Presentation:** [Team Presentation (PDF)](docs/presentation/Team%20Presentation.pdf)
